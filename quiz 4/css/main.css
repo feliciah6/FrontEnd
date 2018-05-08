@@ -1,0 +1,48 @@
+body{
+	background-color: #ccc;
+	width: 2000px;
+	
+}
+.container{
+	background-color: #666;
+	width: 1000px;
+	margin: 0 auto;
+	padding: 20px;
+	min-height: 600px;
+	
+}
+.container .panel{
+	min-height: 200px;
+	background-color: #666;
+	color: #fff;
+	text-align: center;
+	float: left;
+	
+}
+.container .panel.top.one{
+	width:200px;
+	background-color: blue;
+}
+.container .panel.top.two{
+	background-color: red;
+	width: 200px;
+}
+.container .panel.top.three{
+	background-color: purple;
+	width: 200px;
+}
+.container .panel.middle.four{
+	width:200px;
+	background-color: maroon;
+
+
+}
+.container .panel.bottom.five{
+	background-color: yellow;
+	width: 200px;
+}
+.container .panel.bottom.six{
+	background-color: green;
+	width: 200px;
+}
+
