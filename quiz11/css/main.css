@@ -1,0 +1,107 @@
+body{
+	margin:0px;
+	padding: 0px;
+	background-color:#3c3c3c;
+	background-size: cover;
+	font-family: sans-serif;
+}
+.title{
+	text-align:center;
+	padding: 50px 0 20px; 
+}
+.title h1{
+	padding: 0px;
+	margin: 0px;
+	color:#fff;
+	text-transform: uppercase;
+	font-size: 36;
+}
+.container{
+	width: 50%;
+	height: 400px;
+	background-color: #000;
+	margin: 0 auto;
+	border: 2px solid #000;
+	box-shadow:0 15px 40px rgba(0,0,0,0.5);
+
+}
+.container .left{
+	float: left;
+	width: 50%;
+	height: 400px;
+	background-image: url(../img/image.jpg);
+	background-size: cover;
+	box-sizing: border-box;
+}
+.container .right{
+	float: right;
+	width: 50%;
+	height: 400px;
+	box-sizing: border-box;
+
+}
+.forms{
+	width: 100%;
+	padding: 80px 40px;
+	box-sizing: border-box;
+	height: 400px;
+	/*background-color: rgb(60, 60, 60);*/
+
+}
+.forms p{
+	margin: 0px;
+	padding: 0px;
+	font-weight: bold;
+	color: #ccc;
+}
+.forms input{
+	margin-bottom: 20px;
+	width: 100%;
+	background:transparent;
+	outline: none;
+}
+.forms input[type="text"]
+.forms input[type="Email"]
+.forms input[type="Password"]
+{
+	border: none;
+	
+	outline: none;
+	height: 40px;
+	
+}
+.forms input[type="text"]:focus,
+.forms input[type="Email"]:focus,
+.forms input[type="Password"]:focus
+{
+	border-bottom:  2px solid #ccc;	
+	outline: none;
+}
+.forms input[type="submit"]
+{
+	border:none;
+	outline: none;
+	height: 40px;
+	color:#fff;
+	background-color: blue;
+	cursor: pointer;
+
+}
+.forms input[type="submit"]:hover
+{
+	background-color: #a6af13;
+}
+.wrapper{
+	color: #fff;
+	text-align: center;
+	font-size:10px;
+}
+.fone{
+	color: #fff;
+	text-align: center;
+}
+.arial{
+	text-align: center;
+	font-size: 10px;
+	color: #fff;
+}

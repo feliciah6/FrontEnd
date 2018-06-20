@@ -1,0 +1,30 @@
+body{
+	background-color:#fff;
+	margin:0px;
+	padding: 0px;
+	
+}
+
+
+
+
+h1{
+	color: #222;
+	text-align: center;
+}
+p{
+	font-family: 'Butterfly Kids', cursive;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+
+
+
+.wrapper{
+	background-color: rgba(255, 99, 71, 0.5);
+	width:90%;
+	height:500px;
+	margin: 0 auto;
+
+	 }

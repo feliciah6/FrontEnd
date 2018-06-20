@@ -1,0 +1,23 @@
+body{
+	
+	background-color:#fff;
+	width: 100%;
+
+
+}
+.wrapper{
+	
+	background-image: url(../img/google.jpg);
+	width: 400px;
+	height: 400px;
+	text-align: center;
+	margin:0px auto;
+	padding-top: 10px;
+	color: #fff;
+}
+header{
+	text-align: center;
+	font-weight: bold;
+	font-size: 26px;
+	color: #fff;
+}

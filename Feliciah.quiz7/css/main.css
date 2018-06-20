@@ -33,23 +33,34 @@ header{
 }
 .header.two{
 	background-color: #fff;
-	text-align: right;
+	width: 83%;
+	margin:80px auto;
+	padding-bottom: 15px;
+	margin-left: 60px;
+
+	/*text-align: right;
 	width: 1000px;
 	min-height: 600px;
 	padding-top: 30px;
 	margin:30px auto;
 	margin-top: 40px;
 	float: center;
-
+*/
 
 }
 h5{
-	background-color: yellow;
+	font-weight: bolder;
+	background-color: #f7ce06;
+	height: 50px;
+	/*padding: 8px;*/
+	width: 103%;
+	padding-top: 10px;
+	/*background-color: yellow;
 	text-align: left;
 	color: blue;
 	height: 4px;
 	width: 1000px;
-	padding: 20px;
+	padding: 20px;*/
 	
 
 }

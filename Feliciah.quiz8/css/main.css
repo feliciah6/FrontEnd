@@ -1,0 +1,23 @@
+body{
+
+	padding: 0;
+	background-image: url(../img/ocean.jpg);
+	
+}
+
+
+
+
+
+
+
+
+
+.wrapper{
+	
+	width:1000px;
+	float: right;
+	margin-right: 30px;
+	padding-right: 40px;
+
+}
