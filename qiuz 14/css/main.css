@@ -1,0 +1,18 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #fff;
+
+}
+.phone{
+	width: 80%;
+	min-height: 400px;
+	background-color: #ccc;
+	margin: 0 auto;
+	padding: 50px;
+	color:#000;
+	font-size: 160px
+
+
+}
+

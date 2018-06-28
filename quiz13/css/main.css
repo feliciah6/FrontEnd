@@ -1,0 +1,67 @@
+body{
+	background-color: white;
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        background-color: lightgreen;
+    }
+}
+
+.wrapper{
+	background-color: blue;
+	max-width: 100%;
+	height:600px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+.john{
+	background-color: red;
+	width:45%;
+	height:150px;
+	float:left;
+	
+	margin: 5px;
+}
+.jane{
+	background-color: black;
+	width:45%;
+	height: 150px;
+	float: right;
+	margin: 5px;
+}
+.joan{
+	background-color: pink;
+	width:24%;
+	height:140px;
+	float:left;
+	margin:5px;
+	
+	
+}
+.size{
+	background-color:maroon;
+	width:24%;
+	height:140px;
+	float:left;
+	margin:5px;
+
+	
+}
+.assue{
+	background-color:purple;
+	width:24%;
+	height:140px;
+	float:left;
+	margin:5px;
+
+	
+}
+.juddie{
+	background-color: yellow;
+	width:24%;
+	height:140px;
+	margin:5px;
+	float:left;
+	
+}
